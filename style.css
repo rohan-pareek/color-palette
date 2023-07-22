@@ -66,6 +66,7 @@ header p {
 }
 
 #arrow-up {
+    display: none;
     border: none;
     height: 70px;
     width: 70px;
